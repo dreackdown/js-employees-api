@@ -43,10 +43,10 @@
       "role_id": 7
     },
     {
-      "id": 9,
       "name": "Talbert MacCosto",
       "salary": 2600,
-      "role_id": 3
+      "role_id": 3,
+      "id": 9
     },
     {
       "id": 10,
